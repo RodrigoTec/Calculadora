@@ -2,6 +2,7 @@
 Calculadora simples com interface gráfica com uso do Tkinter
 
 Como usar a calculadora:
+
 Instalação necessária:
 
 Apenas Python (Tkinter já vem incluído na instalação padrão)
